@@ -1,0 +1,32 @@
+*{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#header-style{
+    color: blue;
+}
+
+.p-color{
+    color: red;
+    font-weight: bold;
+}
+
+a{
+    background-color: #fff231;
+}
+
+h1{
+    font-variant: small-caps;
+}
+
+header nav ul li a {
+    background-color: blue;
+}
+
+.lista{
+    font-size: 20px;
+}
+
+#italica-titulo{
+    font-style: italic;
+}
